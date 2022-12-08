@@ -1,6 +1,6 @@
 let canvas = document.querySelector('#canvas')
 canvas.style.position ="fixed"
-canvas.style.zIndex="1"
+canvas.style.zIndex="999"
 canvas.style.top="0"
 canvas.style.left="0"
 canvas.style.width="100%"
